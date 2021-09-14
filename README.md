@@ -21,6 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://user-images.githubusercontent.com/83166836/133186361-070ac513-02b1-445b-845b-28daa4f18924.png)
 
-- This flutter code is developed to mimic this front end application
+- flutter code is developed to mimic this front end application
 
 
